@@ -2,6 +2,10 @@
 A watcher for Superlogica Webhooks for localhost
 
 ## How to run
+
+```git clone https://github.com/lukaqll/superlogica-webhook-watcher.git```
+
+
 Open the project folder
 
 
