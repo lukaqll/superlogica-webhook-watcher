@@ -18,4 +18,4 @@ and voila!
 
 It will get your browser's session cookies and use them for requests every 5 seconds.
 
-Let it run while you use your Superlogica localhost project!
+Let it run in your terminal while you use your Superlogica localhost project!
